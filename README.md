@@ -2,7 +2,7 @@
 
 A high-octane, offline-first workout tracking application built with **React Native** and **Expo SDK 54**. Designed with a premium "Gen Z" Cyberpunk aesthetic, this app helps you manage your weekly routines, track historical performance, and stay motivated with daily quotes.
 
-![App Icon](./assets/icon.png)
+![App Icon](./assets/images/icon.png)
 
 ## 🚀 Key Features
 
